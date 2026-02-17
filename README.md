@@ -24,6 +24,9 @@ Para melhor experiência de navegação, os dashboards completos estão disponí
 Demonstrar domínio do Excel aplicado a cenários reais de negócio, estruturando dados, gerando insights e apoiando decisões estratégicas por meio de análises visuais e métricas de performance.
 
 ## 🔗 Visualização dos projetos
-- Projeto 1 – Análise Geral de Vendas Básico  →  [Acessar planilha]  (https://1drv.ms/x/c/c26dac8d9a538864/IQDLIIP6QQH6S4Tv7EAqb_d2AVw4-BArHX-Opwf5P3ilvGs?e=n3W9Ax)
-- 
+- Projeto 1 – Análise Geral de Vendas Básico  →  [Acessar planilha]  https://1drv.ms/x/c/c26dac8d9a538864/IQDLIIP6QQH6S4Tv7EAqb_d2AVw4-BArHX-Opwf5P3ilvGs?e=n3W9Ax
+
+- Projeto 2 – Dashboard Comercial – Análise de Performance de Vendas → https://1drv.ms/x/c/c26dac8d9a538864/IQDL2qsEwvsNTrhJi0IGwtOPAYtwawLIxHk0Kw0XW2ydFAk?e=TCm5Ja
+- Observações projeto 2 → Este dashboard foi desenvolvido utilizando recursos avançados como Tabela Dinâmica, Segmentações e Modelo de Dados.
+Para melhor experiência interativa e uso completo das funcionalidades, recomenda-se abrir o arquivo no Excel Desktop.
 
